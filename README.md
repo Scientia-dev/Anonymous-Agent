@@ -3,7 +3,7 @@
 A private, Tor-routed search interface.
 
 ## Live Demo
-https://Tahmidandanas-creator.github.io/Anonymous-agent/
+https://tahmidandanas-creator.github.io/Anonymous-Agent/
 
 ## Requirements
 - Tor Browser for .onion access

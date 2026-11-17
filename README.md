@@ -8,7 +8,7 @@ A private, fast, and lightweight search interface built with vanilla HTML, CSS, 
 
 ## 🌐 Live Demo
 
-👉 **[https://tahmidandanas-creator.github.io/Anonymous-Agent/](https://tahmidandanas-creator.github.io/Anonymous-Agent/)**
+👉 **[https://scientia-dev.github.io/Anonymous-Agent/](https://tahmidandanas-creator.github.io/Anonymous-Agent/)**
 
 Works in **any modern browser** — Chrome, Safari, Firefox, Edge, Brave, Opera.
 
